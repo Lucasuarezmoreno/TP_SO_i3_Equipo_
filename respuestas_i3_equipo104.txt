@@ -1,0 +1,26 @@
+Apellido y nombre de los alumnos que participaron: Suarez Moreno Luca
+
+a- ¿Cómo queda el máster después de estos cambios?
+
+La rama master/main queda con todos los cambios integrados. Debe contener el archivo datos.txt con los datos agregados por GAMMA, ALFA y BETA, además de los archivos CPUGamma.txt, CPUAlfa.txt y CPUBeta.txt. Luego del segundo merge también queda agregado el archivo beta.txt con la información cargada por BETA, GAMMA y ALFA.
+
+b- ¿Beta pudo ver todos los cambios que se realizaron?
+
+Sí, BETA pudo ver todos los cambios luego de actualizar el repositorio local con git pull y traer las ramas remotas con git fetch. Al hacer checkout a la rama correspondiente y luego realizar el merge hacia master/main, pudo ver los archivos y modificaciones realizadas por los demás integrantes.
+
+c- ¿Qué debió hacer, todos los comandos, en el punto 5 para poder hacer el merge?
+
+BETA debió ubicarse en la rama principal, actualizarla, traer los cambios remotos y luego fusionar la rama creada por GAMMA. Los comandos usados fueron:
+
+git checkout main
+git pull origin main
+git fetch origin
+git merge Suarez
+git status
+git push origin main
+
+En caso de conflicto, debía abrir los archivos marcados por Git, resolver manualmente las diferencias, guardar los cambios y luego ejecutar:
+
+git add .
+git commit -m "Resuelve conflictos del merge"
+git push origin main
