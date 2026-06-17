@@ -1,0 +1,52 @@
+GAMMA
+Ramirez Micaela
+Hora:  
+
+ Datos de Red (ipconfig) --
+gamma
+Ramirez Micaela 
+Hora 12:20
+
+ Datos Red --
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet 4:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::8257:dbcd:9130:7a58%10
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : Home
+   Direcci¢n IPv6 . . . . . . . . . . : 2802:8010:2147:c600:ac75:33b5:8a32:d68e
+   Direcci¢n IPv6 temporal. . . . . . : 2802:8010:2147:c600:d0ef:3eda:fa7d:efc5
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::9edd:e2ff:4543:63fd%16
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.67
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::463b:14ff:fe52:3e70%16
+                                       192.168.1.1
+
+Adaptador de Ethernet Conexi¢n de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : Home
