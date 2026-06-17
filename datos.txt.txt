@@ -1,3 +1,7 @@
+beta: luca Suarez Moreno
+ip: 198.186.128.30
+hora:11:25
+
 GAMMA 
 Ramirez Micaela 
 IP 186.134.130.68
