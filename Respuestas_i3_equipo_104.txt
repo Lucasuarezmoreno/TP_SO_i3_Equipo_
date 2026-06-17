@@ -1,0 +1,11 @@
+Responde GAMMA:
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+si ambas ramas quedaron actualizadas
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+Si, tuvimos problemas para hacer el push.
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+El problema due un conflicto porque el repositorio tenia cambios que no teníamos localmente(rebotaba el push)
+
+Responde ALFA:
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+La solución fue primero hacer un "git pull origin micar002" para traer los cambios, fusionar y por último hacer git push 
